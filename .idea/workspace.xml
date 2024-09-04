@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca31d1a-0406-4657-ae9f-0bd2108de893" name="Changes" comment="Testing views.py">
-      <change afterPath="$PROJECT_DIR$/djangoframework/static/css/style.css" afterDir="false" />
+    <list default="true" id="cca31d1a-0406-4657-ae9f-0bd2108de893" name="Changes" comment="Lesson 1 Ended:&#10;-Added styles and js&#10;-putting the static directory on setting.py&#10;-linking the html files on views.py">
+      <change afterPath="$PROJECT_DIR$/djangoframework/posts/templates/posts/posts_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoframework/posts/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoframework/djangoframework/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/djangoframework/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/djangoframework/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/djangoframework/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,15 +18,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Lesson-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +57,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Lesson-1"
+    "git-widget-placeholder": "Lesson-2"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -94,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725437332245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson 1 Ended:&#10;-Added styles and js&#10;-putting the static directory on setting.py&#10;-linking the html files on views.py">
+      <option name="closed" value="true" />
+      <created>1725441769078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725441769078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My First Commit" />
     <MESSAGE value="Testing views.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing views.py" />
+    <MESSAGE value="Lesson 1 Ended:&#10;-Added styles and js&#10;-putting the static directory on setting.py&#10;-linking the html files on views.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1 Ended:&#10;-Added styles and js&#10;-putting the static directory on setting.py&#10;-linking the html files on views.py" />
   </component>
 </project>
