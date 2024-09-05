@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cca31d1a-0406-4657-ae9f-0bd2108de893" name="Changes" comment="Testing views.py">
-      <change afterPath="$PROJECT_DIR$/djangoframework/static/css/style.css" afterDir="false" />
+    <list default="true" id="cca31d1a-0406-4657-ae9f-0bd2108de893" name="Changes" comment="Lesson-2:&#10;-Created new APP(Posts App)&#10;-Linking the new app in the settings.py&#10;-Added the path of the new app on the main app&#10;-Created urls.py on the new app and connected the posts html file on the views and urls.py">
+      <change afterPath="$PROJECT_DIR$/djangoframework/templates/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/djangoframework/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/djangoframework/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/djangoframework/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/djangoframework/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoframework/posts/templates/posts/posts_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/posts/templates/posts/posts_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoframework/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoframework/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/templates/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoframework/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/templates/home.html" afterDir="false" />
     </list>
@@ -28,40 +28,40 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Lesson-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "raivernxel"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;raivernxel&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/raivernxel/django_framework_tutorial.git",
-    "accountId": "782fbe2d-9928-4bb2-bc70-18c2a1bca012"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/raivernxel/django_framework_tutorial.git&quot;,
+    &quot;accountId&quot;: &quot;782fbe2d-9928-4bb2-bc70-18c2a1bca012&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2lb5Rvh5WXdofToAzwMYaEti27P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Lesson-1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Lesson-2&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725437332245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson 1 Ended:&#10;-Added styles and js&#10;-putting the static directory on setting.py&#10;-linking the html files on views.py">
+      <option name="closed" value="true" />
+      <created>1725441769078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725441769078</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson-2:&#10;-Created new APP(Posts App)&#10;-Linking the new app in the settings.py&#10;-Added the path of the new app on the main app&#10;-Created urls.py on the new app and connected the posts html file on the views and urls.py">
+      <option name="closed" value="true" />
+      <created>1725443211505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725443211505</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +139,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My First Commit" />
     <MESSAGE value="Testing views.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing views.py" />
+    <MESSAGE value="Lesson 1 Ended:&#10;-Added styles and js&#10;-putting the static directory on setting.py&#10;-linking the html files on views.py" />
+    <MESSAGE value="Lesson-2:&#10;-Created new APP(Posts App)&#10;-Linking the new app in the settings.py&#10;-Added the path of the new app on the main app&#10;-Created urls.py on the new app and connected the posts html file on the views and urls.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson-2:&#10;-Created new APP(Posts App)&#10;-Linking the new app in the settings.py&#10;-Added the path of the new app on the main app&#10;-Created urls.py on the new app and connected the posts html file on the views and urls.py" />
   </component>
 </project>
