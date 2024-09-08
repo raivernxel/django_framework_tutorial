@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca31d1a-0406-4657-ae9f-0bd2108de893" name="Changes" comment="Lesson-4&amp;5:&#10;-Added the post model on admin site.&#10;-Iterate the posts list in the post_list.html&#10;-Added the query on post views to get all the posts list data.">
-      <change afterPath="$PROJECT_DIR$/djangoframework/posts/templates/posts/post_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DjangoFrameworkTutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoFrameworkTutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/posts/templates/posts/posts_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/posts/templates/posts/posts_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/posts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/posts/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/posts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoframework/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoframework/djangoframework/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/djangoframework/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoframework/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/users/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoframework/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoframework/users/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson-3" />
+        <entry key="$PROJECT_DIR$" value="Lesson-8" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +59,8 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Lesson-4&&5"
+    "git-widget-placeholder": "Lesson-9",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
